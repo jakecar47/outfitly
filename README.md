@@ -1,5 +1,5 @@
 # Outfitly
-Outfitly is a social media app that aims to make shopping a more interactive and fun experience. Outfitly is owned by its parent company, Plexa.
+Outfitly is a social media app that aims to make shopping outfit sharing a more interactive and fun experience. Outfitly is owned by its parent company, Plexa.
 
 # Contributors
 Jake Caruana, Noah Goldie, Aria Mirzakhanlou, Chris (Chris put your last name, idk it lol)
