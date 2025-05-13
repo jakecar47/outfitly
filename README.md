@@ -6,6 +6,7 @@ Jake Caruana, Noah Goldie,
 
 # Tech Stack
 Front-end: SwiftUI will be used for the front end design of Outfitly
+
 Back-end: Mongoose along with MongoDB Atlas and Atlas Device Sync (SDK) for database management and local persistence
 
 # Functionality
